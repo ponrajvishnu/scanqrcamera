@@ -14,7 +14,7 @@
                 </div>
                 <div class="col-md-6">
                     <label>QR Code Value</label>
-                    <input type="text" class="form-control" name="text" id="text" readonly >
+                    <input type="text" class="form-control text" name="text" id="text" readonly >
                 </div>
             </div>
         </div>
